@@ -1,4 +1,4 @@
-# itR-BootstrapWebsite
+# itR-web-bootstrap-Hotel
 Mobile friendly hotel website developed with Bootstrap, html5, css, javascript.
 
-![logic]( http://www.itreverie.com/githubimages/itR-BootstrapWebsite.png)
+![logic]( http://www.itreverie.com/githubimages/itReverie-web-responsive-hotel.png)
