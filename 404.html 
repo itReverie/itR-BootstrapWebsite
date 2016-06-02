@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es-MX" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta content="True" name="HandheldFriendly">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="keywords" content="hotel Yanhuitlan, hotel ruta mixteca,hostal Yanhuitlan, hospederia en Yanhuitlan">
+    <meta name="description" content="El mejor hotel & hostal en Yanhuitlan Oaxaca. Economico, comfortable y con un excellente servicio al cliente.">
+    <title>Posada los Dominicos</title>
+    <link href="./pld/css" rel="stylesheet" type="text/css">
+    <link href="./pld/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./pld/css/pld_style.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+
+
+
+
+<body>
+
+
+
+<!--MAIN PHOTO-->
+<div id="home" class="home">
+  <div class=" hidden-xs hidden-sm hidden-md visible-lg ">
+  
+  <h3 style="color:#531e0e; font-weight: bold;   z-index: 3;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 1%;"> <a style="color:#531e0e;font-weight: bold; " href="indexEnglish.html">English</a> | <a  style="color:#531e0e;font-weight: bold;" href="index.html">Español</a></h3>
+    
+  </div>
+</div>
+
+
+
+<!--MISION-->
+<div id="mision" class="pad-section solid-pld-gray-background">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 text-align-center">
+        <img  alt="hospedaje en Yanhuitlan, posada confortable en yanhuitlan, hostal economico en yanhuitlan, hotel todo incluido yanhuitlan,hotel en la Ruta Mixteca, hotel en la Ruta de la mixteca, Ruta Mixteca hotel" src="./pld/images/hotel_yanhuitlan.jpg" class="text-align-center img-rounded logo" />
+      </div>
+      <div class="col-xs-12 col-sm-6 text-center">
+        <h1 style="color: #6e2812;">Hotel en Yanhuitlan Oaxaca</h1>
+        <p class="lead">Lo sentimos esa pagnia no existe.
+        </p>
+      </div>
+
+
+
+
+
+        <div class="col-xs-12" style="padding-bottom: 25px;"></div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="./pld/js/jquery-2.2.0.min.js"></script>
+<script src="./pld/js/bootstrap.min.js"></script>
+ <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="./pld/js/main.js"></script>
+
+
+
+
+
+</body>
+</html>

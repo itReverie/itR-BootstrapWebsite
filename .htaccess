@@ -1,0 +1,21 @@
+ErrorDocument	404			/404.html
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#RewriteBase /
+
+
+
+#RewriteCond %{HTTP_HOST} ^(www.)?posadalosdominicos.com$ [NC]
+#RewriteCond %{REQUEST_URI} !^http://www.itreverie.com/posadalosdominicos/.*$
+#RewriteRule ^(.*)$ http://www.itreverie.com/posadalosdominicos/$1 [R=404,L]
+
+
+RewriteCond %{HTTP_HOST} ^posadalosdominicos.com [NC]
+RewriteRule ^(.*)$ http://www.posadalosdominicos.com/$1 [L,R=301,NC]
+
+</IfModule>
+
+# END WordPress
+
